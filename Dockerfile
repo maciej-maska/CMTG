@@ -35,6 +35,6 @@ RUN bundle install
 # Set Jekyll environment
 ENV JEKYLL_ENV=production 
 
-EXPOSE 8080
+EXPOSE 8088
 
-CMD ["/bin/bash", "-c", "rm -f Gemfile.lock && exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace"]
+CMD ["/bin/bash", "-c", "rm -f Gemfile.lock && exec jekyll serve --watch --port=8088 --host=0.0.0.0 --livereload --verbose --trace"]
