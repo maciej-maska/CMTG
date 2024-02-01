@@ -1,6 +1,20 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"Phys.Rev.B":
+  url: https://journals.aps.org/prb/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Phys. Rev. E":
+  url: https://journals.aps.org/pre/
+  color: "#0b9faa"
+
+"Phys. Rev. Lett.":
+  url: https://journals.aps.org/prl/
+  color: "#00369f"
+
+"J. Alloys Compd.":
+  url: https://www.sciencedirect.com/journal/journal-of-alloys-and-compounds
+  color: "#9f3600"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#4f0056"
+

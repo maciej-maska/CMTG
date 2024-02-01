@@ -1,0 +1,9 @@
+- name: Michał Łukomski
+  image: face.jpg
+  altimage:
+  position: master's student
+
+- name: Konrad Bolembach 
+  image: face.jpg
+  altimage:
+  position: master's student

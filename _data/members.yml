@@ -1,0 +1,41 @@
+- name: Maciej M Maśka
+  image: MM.jpg
+  altimage: 
+  position: Principal Investigator
+  email: maciej.maska@pwr.edu.pl
+  orcid_id: 0000-0003-2214-3283 # your ORCID ID
+  scholar_userid: fWmT1GkAAAAJ # your Google Scholar ID
+  publons_id: C-5810-2008 # your ID on Publons
+  research_gate_profile: Maciej-Maska # your profile on ResearchGate
+  scopus_id: 6602755782 # your profile on Scopus
+  twitter:
+  twitter: 
+  description: sfksdlflsdf hsadfhs gfjhsgf fgf gjasfghsdf78jasdf sjhgfjkslfsjh kshfijashd fksadjfhiusdhfs afd kjhasdjkfhs fasdkjfhsdifhaufhd skjhf sadfkjhsdfjkhsdjkfhklasfjhsadf hjkasdfh sakdfjaskd fasfsa98798asf 897923
+
+- name: Maksymilian Kliczkowski
+  image: maks.jpeg
+  altimage:
+  position: PhD student
+  email: maksymilian.kliczkowski@pwr.edu.pl
+  github: makskliczkowski
+  orcid_id: 0000-0002-7987-9913
+  description:
+
+- name: Marlena Dziurawiec
+  image: face.jpg
+  altimage:
+  position: PhD student
+  email: marlena.dziurawiec@pwr.edu.pl
+  scholar:
+  twitter:
+  description: fasdfsdf {% reference bera_topological_2023 %} sdfsdfsdv zxcvzxv
+
+- name: Mateusz Krawczyk
+  image: mateusz.jpg
+  altimage:
+  position: PhD student
+  email: mateusz.krawczyk@pwr.edu.pl
+  scholar:
+  twitter:
+  description:
+
