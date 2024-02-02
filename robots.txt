@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cmtg.pwr.edu.pl//sitemap.xml
+Sitemap: https://maciej-maska.github.io/CMTG//sitemap.xml
